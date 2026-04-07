@@ -8,8 +8,7 @@ type: Index
 position: Consumer
 access: 3rd-Party
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
-tags:
-  - API
+tags: []
 created: '2025-02-08'
 modified: '2026-03-16'
 url: >-
@@ -23,8 +22,7 @@ apis:
       to the next level. With 130 top iGaming providers and 13,500 fan-favorite games,
       all you need is a single casino API integration.
     humanURL: ' https://nuxgame.com/solutions/betting-casino-api'
-    tags:
-      - API
+    tags: []
     properties:
       - type: Documentation
         url: ' https://nuxgame.com/solutions/betting-casino-api'

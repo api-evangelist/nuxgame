@@ -37,6 +37,19 @@ apis:
 common:
   - type: Website
     url: https://nuxgame.com
+  - type: Integrations
+    url: https://nuxgame.com/partners
+integrations:
+  - name: CRM
+  - name: CRM SOLUTION
+  - name: AFFILIATE PLATFORM
+  - name: KYC&AML
+  - name: ANTI FRAUD
+  - name: B2C SUPPORT
+  - name: CHATS
+  - name: SECURITY AND PERFORMANCE
+  - name: EMAIL PROVIDER
+  - name: ANALYTICS
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com

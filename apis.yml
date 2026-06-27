@@ -41,7 +41,7 @@ common:
     url: https://nuxgame.com
   - type: Integrations
     url: https://nuxgame.com/partners
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://nuxgame.com/llms.txt
 integrations:
   - name: CRM

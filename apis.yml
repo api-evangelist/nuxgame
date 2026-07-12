@@ -35,6 +35,8 @@ apis:
       - type: Documentation
         url: https://nuxgame.com/solutions/betting-casino-api
 common:
+  - type: DomainSecurity
+    url: security/nuxgame-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/nuxgame
   - type: Website
@@ -43,6 +45,8 @@ common:
     url: https://nuxgame.com/partners
   - type: LlmsText
     url: https://nuxgame.com/llms.txt
+  - url: https://nuxgame.com/blog/feed/
+    type: Blog
 integrations:
   - name: CRM
   - name: CRM SOLUTION
